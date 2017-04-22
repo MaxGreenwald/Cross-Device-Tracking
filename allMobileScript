@@ -1,0 +1,5 @@
+#!/bin/bash
+for file in finalMobile/*;
+do
+python csvMobileData.py $file
+done
