@@ -4,11 +4,7 @@ import zlib
 import mmh3
 
 
-identifiers = ["chester",
-"Chester",
-"Chestnut",
-"OTHER identifiers"
-]
+identifiers = ["herewegolad@outlook.com"]
 
 hashedIDs = []
 
